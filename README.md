@@ -15,7 +15,7 @@ We have used ***AutoCad*** for the design of our fan and ***TinkerCad*** for our
 
 `All the files needed could be found inside the cs209 folder. Like, STL files, the code, images(circuit, fan design, cura secreenshot), sources(.dwg, .brd).`
 
-> Thingiverse link: https://www.thingiverse.com/thing:4359206
+> [Thingiverse link](https://www.thingiverse.com/thing:4359206)
 
 ### *Design with Dimensions;*
 
